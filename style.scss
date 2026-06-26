@@ -83,6 +83,9 @@ hr {
 .wrapper-masthead {
   background: #800000;
   margin-bottom: 40px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .masthead {
