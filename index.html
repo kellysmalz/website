@@ -1,18 +1,83 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="landing-container">
+  <div class="landing-photo">
+    <img src="/images/headshot.jpg" alt="Kelly Smalenberger">
+  </div>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="landing-info">
+    <h1>Kelly Smalenberger, Ph.D.</h1>
+    <p class="title-line">
+      Preceptor of Data Science<br>
+      <a href="https://datascience.uchicago.edu/" target="_blank">Data Science Institute</a>, University of Chicago
+    </p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="contact-block">
+      <p>📧 <a href="mailto:ksmalenberger@uchicago.edu">ksmalenberger@uchicago.edu</a></p>
+      <p>📍 John Crerar Library, Chicago, IL</p>
+      <p>
+        <a href="https://www.linkedin.com/in/kellysmalenberger" target="_blank">LinkedIn</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/KellySmalz" target="_blank">GitHub</a>
+      </p>
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+    <a href="/assets/Smalenberger_CV.pdf" class="cv-link" target="_blank">Curriculum Vitae</a>
+  </div>
+</div>
+
+<hr>
+
+<div class="page-section">
+  <h2>Biography</h2>
+  <p>
+    My path to academia was not linear. After attending several undergraduate institutions and stepping
+    away from higher education for a period, I ultimately completed my degree at a university where
+    faculty were approachable, cultivated curiosity, and recognized my potential before I did. Their
+    mentorship changed the trajectory of my life, and it is the model I carry into every classroom.
+  </p>
+  <p>
+    I am currently a Preceptor of Data Science at the University of Chicago Data Science Institute,
+    where I develop and implement curricular content for data science and mathematics courses at UChicago
+    and the City Colleges of Chicago. I mentor students through capstone projects
+    (<a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">The Clinic</a>),
+    <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/" target="_blank">Data Science for Social Impact</a>
+    collaborations, and applied industry initiatives.
+  </p>
+  <p>
+    I hold a Ph.D. in Applied Mathematics from the University of North Carolina at Charlotte
+    (dissertation: <em>Probabilistic Numerical Integration with Applications in Machine Learning</em>)
+    and a Data Science and Machine Learning Certificate from MIT.
+  </p>
+</div>
+
+<div class="page-section">
+  <h2>Teaching Philosophy</h2>
+  <p>
+    My teaching philosophy is grounded in inclusivity, practical relevance, collaboration, and growth.
+    I have built courses and curricula across a wide range of institutional contexts — a private R1
+    (University of Chicago), a community college system (City Colleges of Chicago), a liberal arts
+    college (Belmont Abbey College), and a large public R1 (University of North Carolina at Charlotte).
+  </p>
+  <p>
+    Data science is a discipline learned by doing. I model logical reasoning aloud — including the dead
+    ends and moments of uncertainty — and progressively transfer explanatory responsibility to students.
+    My goal is not just technical competence; it is analytical agency: the confidence to approach an
+    unfamiliar problem, break it down, and reason through it rigorously. See the
+    <a href="/teaching">Teaching</a> page for my full course history.
+  </p>
+</div>
+
+<div class="page-section">
+  <h2>Research Interests</h2>
+  <p>
+    My research spans probabilistic numerical methods, machine learning, and data science education.
+    I collaborate with the
+    <a href="https://datascience.uchicago.edu/research/internet-innovation/" target="_blank">Internet Innovation</a>
+    initiative at the UChicago DSI and have published in AI in Education, machine learning, and
+    mathematics education venues. See the <a href="/research">Research</a> page for publications and grants.
+  </p>
 </div>

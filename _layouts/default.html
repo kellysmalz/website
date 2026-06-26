@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
@@ -10,25 +10,24 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+            <a href="{{ site.baseurl }}/teaching" {% if page.url contains "teaching" %}class="active"{% endif %}>Teaching</a>
+            <a href="{{ site.baseurl }}/research" {% if page.url contains "research" %}class="active"{% endif %}>Research</a>
+            <a href="{{ site.baseurl }}/service" {% if page.url contains "service" %}class="active"{% endif %}>Service</a>
           </nav>
         </header>
       </div>
@@ -41,7 +40,10 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <p style="margin:0; font-size:15px; color:#666;">
+            Kelly Smalenberger, Ph.D. &nbsp;·&nbsp;
+            <a href="mailto:ksmalenberger@uchicago.edu">ksmalenberger@uchicago.edu</a>
+          </p>
         </footer>
       </div>
     </div>
