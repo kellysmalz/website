@@ -37,7 +37,8 @@ Strong departments and institutions are built through collective effort. I bring
 **Undergraduate Research Mentor, Belmont Abbey College** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transferability of Findings.
 
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
@@ -57,7 +58,8 @@ Strong departments and institutions are built through collective effort. I bring
 
 *2022–2024*  &nbsp;&nbsp;&nbsp;&nbsp;Department Chair, Mathematics and Physics, Belmont Abbey College
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
 *2023–2024*  &nbsp;&nbsp;&nbsp;&nbsp;Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
 2022-2023	Admissions Review Committee, Internal Review Board
