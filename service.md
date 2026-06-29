@@ -33,10 +33,11 @@ Strong departments and institutions are built through collective effort. I bring
   - **Lead Instructor and Administrator**, [Spring 2026](https://datascience.uchicago.edu/news/empowering-future-data-leaders-through-data4all/) As co-instructor, I refined curriculum and led instruction for this weekend workshop which focuses on equiping the local high school students to become the next generation of data leaders with the skills and confidence to engage meaningfully with data science. As an administrator, I reviewed undergraduate mentor and student partipant applications, coodinate weekly guest speakers, and held weekly instructional team meeting. The program reflects my commitment to expanding access to data education among underrepresented and aspiring students.
 
   
-**Undergraduate Research Mentor, Belmont Abbey College**
-NSF-funded project,
+**Undergraduate Research Mentor, Belmont Abbey College** Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
 
-**Undergraduate Academic Advisor**, Belmont Abbey College
+
+**Undergraduate Academic Advisor, Belmont Abbey College** Academic Advisor for a portion of mathematics majors and all minors. 
+
 ---
 
 ### Institutional Service
