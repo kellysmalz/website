@@ -47,8 +47,11 @@ Academic Advisor for a portion of mathematics majors and all minors.
 
 ### Institutional Service
 
-- **Graduate Admissions Committee**, University of Chicago *(2026)*
-  
+**[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
+- **Graduate Admissions Committee**, *(2026)*
+
+**[Belmont Abbey College](https://belmontabbeycollege.edu/)**
+
 - **Department Chair**, Mathematics and Physics, Belmont Abbey College *(2022–2024)*
   
 - **Committee Service at Belmont Abbey College** *(2018–2024)*: Admissions Review, Professional Affairs, Biology Hiring, Internal Review Board, IT Strategic Action Board, Strategic Planning, Post-Graduate Learning Opportunities, multiple Hiring Committees, Data Analytics and Actuary Certificate Development Teams
