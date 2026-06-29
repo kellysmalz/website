@@ -10,9 +10,15 @@ Strong departments and institutions are built through collective effort. My serv
 
 ### Student Mentorship
 
-- **Instructor and Mentor**, Data Science for Social Impact, UChicago *(2024–Present)*
-- **Mentor**, [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/){:target="_blank"}, UChicago *(Fall 2024, Winter 2025, Spring 2025)*
-- **Lead Instructor and Administrator**, Data4All, UChicago *(2025–2026)*
+- **Instructor and Mentor**, Data Science for Social Impact, UChicago *(2025–Present)*
+- **Mentor**, [Data Science Clinic (https://datascience.uchicago.edu/education/data-science-clinic/){:target="_blank"}, UChicago 
+  - Spring 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)   
+  - Winter 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)  
+  - Fall 2025 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)
+  - Spring 2025 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)  
+  - Winter 2025 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/) 
+  - Fall 2024 [Data Science Clinic (The Clinic)]([https://datascience.uchicago.edu/education/data-science-clinic/](https://clinic.ds.uchicago.edu/projects/one-pagers/2024-autumn/RAFI%20--%20Grocery%20Atlas.pdf)) partnering with [RAFI-USA](https://rafiusa.org/){:target="_blank"} to visualize grocery market concentration and food access metrics in different Metropolitan Statistical Areas (MSAs) and analyze socioeconomic factors linked to these metrics.
+- **Lead Instructor and Administrator**, Data4All, UChicago *(Spring 2026)*
 - **Undergraduate Research Mentor**, NSF-funded project, Belmont Abbey College
 
 **Selected Clinic & DSSI Projects:**
