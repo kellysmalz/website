@@ -55,7 +55,8 @@ Strong departments and institutions are built through collective effort. I bring
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
 
 *2022–2024*  &nbsp;&nbsp;&nbsp;&nbsp;Department Chair, Mathematics and Physics, Belmont Abbey College
-  &nbsp;&nbsp;&nbsp;&nbsp;Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
 *2023–2024*  &nbsp;&nbsp;&nbsp;&nbsp;Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
 2022-2023	Admissions Review Committee, Internal Review Board
