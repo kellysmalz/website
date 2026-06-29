@@ -49,11 +49,12 @@ Academic Advisor for a portion of mathematics majors and all minors.
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
 *(2026)*
-- **Graduate Admissions Committee**, 
+Graduate Admissions Committee 
 
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
+
 *2022–2024*
-- **Department Chair**, Mathematics and Physics, Belmont Abbey College
+Department Chair, Mathematics and Physics, Belmont Abbey College
 Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
 *2023–2024*: 
