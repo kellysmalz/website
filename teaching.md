@@ -14,7 +14,7 @@ permalink: /teaching/
 - DATA 118: Introduction to Data Science I *(Winter 2025)*
 
 **Curriculum Development**
-- Co-authoring The Chicago Guide to Data Science [textbook](https://textbook-datascience-1-dev.vercel.app/intro.html){:target="_blank"} for the UChicago introductory data science sequence (Data 118 & 119), including a chapter on Logistic Regression and Classification performance metrics.
+- Co-authoring The Chicago Guide to Data Science [textbook](https://textbook-datascience-1-dev.vercel.app/intro.html) for the UChicago introductory data science sequence (Data 118 & 119), including a chapter on Logistic Regression and Classification performance metrics.
 - Collaborating with Truman College (City Colleges of Chicago) to develop a second data science course at the community college level.
 
 ---
