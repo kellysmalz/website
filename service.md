@@ -48,13 +48,29 @@ Academic Advisor for a portion of mathematics majors and all minors.
 ### Institutional Service
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
-- **Graduate Admissions Committee**, *(2026)*
+*(2026)*
+- **Graduate Admissions Committee**, 
 
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
+*2022–2024*
+- **Department Chair**, Mathematics and Physics, Belmont Abbey College
+Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
-- **Department Chair**, Mathematics and Physics, Belmont Abbey College *(2022–2024)*
+*2023–2024*: 
+Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
+2022-2023	Admissions Review Committee, Internal Review Board<img width="470" height="26" alt="image" src="https://github.com/user-attachments/assets/76a113fe-ee1e-40c0-8098-93e5adc96793" />
   
-- **Committee Service at Belmont Abbey College** *(2018–2024)*: Admissions Review, Professional Affairs, Biology Hiring, Internal Review Board, IT Strategic Action Board, Strategic Planning, Post-Graduate Learning Opportunities, multiple Hiring Committees, Data Analytics and Actuary Certificate Development Teams
+*2021-2022	
+Data Analytics Development Team, Actuary Certificate Development Team Leader, Post-Graduate Learning Opportunities Committee, Sport Management Hiring Committee, Admissions Review Committee. 
+
+*2020-2021*	
+IT Strategic Action Board, Admissions Review Committee, Strategic Planning Committee Strategic Entrepreneurship Theme Team, Mathematics/Chemistry Hiring Committee, Post-Graduate Learning Opportunities Committee.
+
+*2019-2020*	
+IT Strategic Action Board, Admissions Review Committee, Motorsports/Sports Management Hiring Committee, Technical Assistance Group. 
+
+*2018-2019*
+Internal Review Board.
 
 ---
 
