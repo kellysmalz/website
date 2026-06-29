@@ -11,7 +11,7 @@ My research spans probabilistic numerical methods, machine learning. Alongside m
 ### Peer-Reviewed Publications
 
 <ul class="pub-list">
-  <li>
+  <li style="margin-bottom: 15px">
     Smalenberger, M., Sohrabi, E., Zhang, M., Baral, S., <strong>Smalenberger, K.</strong>, Lan, A., &amp; Heffernan, N. (2024).
     Automatic Short-Answer Grading in College Mathematics Using In-context Meta-learning: An Evaluation of the Transferability of Findings.
     <em>25th International Conference on Artificial Intelligence in Education (AIED)</em>.
