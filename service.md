@@ -36,12 +36,12 @@ Strong departments and institutions are built through collective effort. I bring
   
 **Undergraduate Research Mentor, Belmont Abbey College** 
 
-    Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
+&nbsp;&nbsp;&nbsp;&nbsp; Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
 
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
 
-    Academic Advisor for a portion of mathematics majors and all minors. 
+&nbsp;&nbsp;&nbsp;&nbsp; Academic Advisor for a portion of mathematics majors and all minors. 
 
 ---
 
@@ -49,13 +49,11 @@ Strong departments and institutions are built through collective effort. I bring
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
 
-*(2026)*    Graduate Admissions Committee 
+*(2026)* &nbsp;&nbsp;&nbsp;&nbsp; Graduate Admissions Committee 
 
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
 
-*2022–2024*
-
-Department Chair, Mathematics and Physics, Belmont Abbey College
+*2022–2024* &nbsp;&nbsp;&nbsp;&nbsp; Department Chair, Mathematics and Physics, Belmont Abbey College
 Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
 *2023–2024*    Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
