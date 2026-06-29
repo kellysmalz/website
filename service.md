@@ -41,7 +41,7 @@ Strong departments and institutions are built through collective effort. I bring
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Academic Advisor for a portion of mathematics majors and all minors. 
+  &nbsp;&nbsp;&nbsp;&nbsp; Academic Advisor for a portion of mathematics majors and all minors. 
 
 ---
 
@@ -49,23 +49,23 @@ Strong departments and institutions are built through collective effort. I bring
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
 
-*(2026)* &nbsp;&nbsp;&nbsp;&nbsp; Graduate Admissions Committee 
+*(2026)*  Graduate Admissions Committee 
 
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
 
-*2022–2024* &nbsp;&nbsp;&nbsp;&nbsp; Department Chair, Mathematics and Physics, Belmont Abbey College
-Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
+*2022–2024*  Department Chair, Mathematics and Physics, Belmont Abbey College
+  Led all departmental operations including curriculum design, scheduling, budget management, faculty hiring and evaluation, student advising, donor engagement, and annual reporting. Developed new courses and contributed to new degree pathways, including data analytics. 
 
-*2023–2024*    Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
+*2023–2024*  Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
 2022-2023	Admissions Review Committee, Internal Review Board
   
-*2021-2022*	    Data Analytics Development Team, Actuary Certificate Development Team Leader, Post-Graduate Learning Opportunities Committee, Sport Management Hiring Committee, Admissions Review Committee. 
+*2021-2022*  Data Analytics Development Team, Actuary Certificate Development Team Leader, Post-Graduate Learning Opportunities Committee, Sport Management Hiring Committee, Admissions Review Committee. 
 
-*2020-2021*    IT Strategic Action Board, Admissions Review Committee, Strategic Planning Committee Strategic Entrepreneurship Theme Team, Mathematics/Chemistry Hiring Committee, Post-Graduate Learning Opportunities Committee.
+*2020-2021*  IT Strategic Action Board, Admissions Review Committee, Strategic Planning Committee Strategic Entrepreneurship Theme Team, Mathematics/Chemistry Hiring Committee, Post-Graduate Learning Opportunities Committee.
 
-*2019-2020*	   IT Strategic Action Board, Admissions Review Committee, Motorsports/Sports Management Hiring Committee, Technical Assistance Group. 
+*2019-2020*  IT Strategic Action Board, Admissions Review Committee, Motorsports/Sports Management Hiring Committee, Technical Assistance Group. 
 
-*2018-2019*    Internal Review Board.
+*2018-2019*  Internal Review Board.
 
 ---
 
