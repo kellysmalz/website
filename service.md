@@ -64,7 +64,7 @@ Strong departments and institutions are built through collective effort. I bring
 
 **2023–2024**  &nbsp;&nbsp;&nbsp;&nbsp;Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
 
-**2022-2023**  Admissions Review Committee, Internal Review Board
+**2022-2023**  &nbsp;&nbsp;&nbsp;&nbsp;Admissions Review Committee, Internal Review Board
   
 **2021-2022**  &nbsp;&nbsp;&nbsp;&nbsp;Data Analytics Development Team, Actuary Certificate Development Team Leader, Post-Graduate Learning Opportunities Committee, Sport Management Hiring Committee, Admissions Review Committee. 
 
