@@ -48,6 +48,7 @@ Academic Advisor for a portion of mathematics majors and all minors.
 ### Institutional Service
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
+
 *(2026)*
 Graduate Admissions Committee 
 
@@ -59,7 +60,7 @@ Led all departmental operations including curriculum design, scheduling, budget 
 
 *2023–2024*: 
 Admissions Review Committee, Professional Affairs Committee, Biology Hiring Committee
-2022-2023	Admissions Review Committee, Internal Review Board<img width="470" height="26" alt="image" src="https://github.com/user-attachments/assets/76a113fe-ee1e-40c0-8098-93e5adc96793" />
+2022-2023	Admissions Review Committee, Internal Review Board
   
 *2021-2022	
 Data Analytics Development Team, Actuary Certificate Development Team Leader, Post-Graduate Learning Opportunities Committee, Sport Management Hiring Committee, Admissions Review Committee. 
