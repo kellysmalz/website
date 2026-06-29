@@ -36,7 +36,7 @@ Strong departments and institutions are built through collective effort. I bring
   
 **Undergraduate Research Mentor, Belmont Abbey College** 
 
-> Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
 
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
@@ -50,7 +50,7 @@ Strong departments and institutions are built through collective effort. I bring
 
 **[Data Science Institute](https://datascience.uchicago.edu/), UChicago**
 
-*(2026)*  &nbsp;&nbsp;&nbsp;&nbsp;Graduate Admissions Committee 
+*(2026)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Admissions Committee 
 
 **[Belmont Abbey College](https://belmontabbeycollege.edu/)**
 
