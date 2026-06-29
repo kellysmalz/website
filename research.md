@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research spans probabilistic numerical methods, machine learning, and data science education. I am currently collaborating with the [Internet Innovation](https://datascience.uchicago.edu/research/internet-innovation/){:target="_blank"} initiative at the UChicago Data Science Institute.
+My research spans probabilistic numerical methods, machine learning. Alongside my technical research, I am deeply committed to advancing pedagogy in mathematics and data science, designing curricula and educational approaches  and materials that make these fields more accessible and inclusive to a broader range of learners.
 
 ---
 
