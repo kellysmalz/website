@@ -15,7 +15,7 @@ Strong departments and institutions are built through collective effort. My serv
   - **Mentor**  [Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/) The team partnered with [BankTrack](http://banktrack.org/) to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning.
  
   
-## [Data Science Clinic (https://datascience.uchicago.edu/education/data-science-clinic/), UChicago
+**[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic/), UChicago**
   - **Mentor**  [Spring 2026](https://clinic.ds.uchicago.edu/projects/) The team partnered with [UChicago's Regenstein Library](https://www.lib.uchicago.edu/spaces/joseph-regenstein-library/) to assess the replaceability of its collection, estimate replacement costs for obtainable titles, and identify distinguishing characteristics of irreplaceable works.
   
   - **Mentor** [Winter 2026](https://clinic.ds.uchicago.edu/projects/one-pagers/2026-winter/Mothers%20Out%20Front.pdf)  Partnered with Mothers Out Front to enhance the Climate Lens dashboard, optimizing backend data processing efficiency by streamlining workflows and creating a more intuitive, accessible, and informative interface for stakeholders.
