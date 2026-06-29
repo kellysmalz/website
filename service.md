@@ -78,19 +78,25 @@ Strong departments and institutions are built through collective effort. I bring
 
 ### Professional Service
 
-- **Panelist**, National Science Foundation *(2023, 2024)*
-- **Program Committee**, 46th Annual Conference of PME-NA *(2024)*
-- **Program Committee**, 25th International Conference on AI in Education (AIED) *(2024)*
-- **Program Committee**, 8th International Conference on Machine Learning, Optimization, and Data Science (LOD) *(2022)*
-- **Member, Board of Directors**, Accessible Math (501(c)(3)) *(2021–Present)*
+**Panelist**, National Science Foundation *(2023, 2024)*
+
+**Program Committee**, 46th Annual Conference of PME-NA *(2024)*
+
+**Program Committee**, 25th International Conference on AI in Education (AIED) *(2024)*
+
+**Program Committee**, 8th International Conference on Machine Learning, Optimization, and Data Science (LOD) *(2022)*
+
+**Member, Board of Directors**, Accessible Math (501(c)(3)) *(2021–Present)*
 
 ---
 
 ### Community Involvement
 
-- **Class Volunteer**, UChicago Laboratory School *(2024–Present)*
-- **Volunteer**, Chicago Food Depository *(2024, 2025, 2026)*
-- **Room Parent and Volunteer**, Metrolina Regional Scholars Academy *(2022–2024)*
+**Class Volunteer**, UChicago Laboratory School *(2024–Present)*
+
+**Volunteer**, Chicago Food Depository *(2024, 2025, 2026)*
+
+**Room Parent and Volunteer**, Metrolina Regional Scholars Academy *(2022–2024)*
 
 ---
 
