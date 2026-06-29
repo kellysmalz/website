@@ -4,16 +4,20 @@ title: Service
 permalink: /service/
 ---
 
-Strong departments and institutions are built through collective effort. My service strengths lie in student mentorship and admissions — both rooted in my own undergraduate experience, where faculty guidance was transformative.
+Strong departments and institutions are built through collective effort. I bring particular strength in student mentorship and advising, and in committee and administrative work that prioritizes inclusion and the advancement of institutional mission.
+
+ssions — both rooted in my own undergraduate experience, where faculty guidance was transformative.
 
 ---
 
 ### Student Mentorship
 
-- **Instructor and Mentor**, Data Science for Social Impact, UChicago
-**[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic/), UChicago**
-  - **Instructor** Summer 2026 
+**[Data Science for Social Impact](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/), UChicago**
+
+  - **Instructor** Summer 2026
+    
   - **Mentor**  [Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/) The team partnered with [BankTrack](http://banktrack.org/) to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning.
+
   
 **[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic/), UChicago**
   - **Mentor**,  [Spring 2026](https://clinic.ds.uchicago.edu/projects/) The team partnered with [UChicago's Regenstein Library](https://www.lib.uchicago.edu/spaces/joseph-regenstein-library/) to assess the replaceability of its collection, estimate replacement costs for obtainable titles, and identify distinguishing characteristics of irreplaceable works.
@@ -28,15 +32,13 @@ Strong departments and institutions are built through collective effort. My serv
 
   - **Mentor**, [Fall 2024](https://clinic.ds.uchicago.edu/projects/one-pagers/2024-autumn/RAFI%20--%20Grocery%20Atlas.pdf) partnered with RAFI-USA to develop visualizations of grocery market concentration and food access metrics across various Metropolitan Statistical Areas (MSAs), while conducting a comprehensive analysis of the socioeconomic factors influencing these metrics.
     
-- **Lead Instructor and Administrator**, Data4All, UChicago *(Spring 2026)*
+**[Data4All](https://datascience.uchicago.edu/outreach/data4all/), UChicago**
+  - **Lead Instructor and Administrator**, [Spring 2025](https://datascience.uchicago.edu/news/empowering-future-data-leaders-through-data4all/)
+
   
-- **Undergraduate Research Mentor**, NSF-funded project, Belmont Abbey College
+**Undergraduate Research Mentor**, NSF-funded project, Belmont Abbey College
 
-**Selected Clinic & DSSI Projects:**
-- Approximating the value and irreplaceability of rare books at the Regenstein Library (UChicago)
-- Building a data dashboard for [Mothers Out Front](https://www.mothersoutfront.org/){:target="_blank"} to advance climate solutions and advocate for children's health
-- Partnering with [RAFI-USA](https://rafiusa.org/){:target="_blank"} to expose inequitable access to food and corporate concentration in grocery markets across the United States
-
+**Undergraduate Academic Advisor**, Belmont Abbey College**
 ---
 
 ### Institutional Service
