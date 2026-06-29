@@ -36,7 +36,7 @@ Strong departments and institutions are built through collective effort. I bring
   
 **Undergraduate Research Mentor, Belmont Abbey College** 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
+  Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
 
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
