@@ -22,21 +22,25 @@ My research spans probabilistic numerical methods, machine learning. Alongside m
     A college algebra instructor's transition from procedural to conceptual through the codesign of formative assessments.
     <em>46th Annual Conference of PME-NA</em>.
   </li>
+  
   <li>
     Hedgepeth, E., Holl-Cross, C., Smalenberger, M., <strong>Smalenberger, K.</strong>, &amp; McCulloch, A.W. (2024).
     Using ASSISTments for college math: Evaluating the effectiveness of supports and transferability of findings.
     <em>46th Annual Conference of PME-NA</em>.
   </li>
+  
   <li>
     <strong>Smalenberger, K.</strong>, &amp; Smalenberger, M. (2022).
     Batch Bayesian Quadrature with Batch Updating Using Future Uncertainty Sampling.
     <em>International Conference on Machine Learning, Optimization, and Data Science (LOD)</em>, pp. 167–180. Springer Nature Switzerland.
   </li>
+  
   <li>
     Smalenberger, M., &amp; <strong>Smalenberger, K.</strong> (2022).
     Toward Accessible Intelligent Tutoring Systems: Integrating Cognitive Tutors and Conversational Agents.
     <em>International Conference on Artificial Intelligence in Education (AIED)</em>, pp. 414–418. Springer.
   </li>
+  
   <li>
     Smalenberger, M., &amp; <strong>Smalenberger, K.</strong> (2022).
     Do College Students Learn Math the Same Way as Middle School Students? On the Transferability of Findings on Within-Problem Supports in Intelligent Tutoring Systems.
@@ -49,6 +53,7 @@ My research spans probabilistic numerical methods, machine learning. Alongside m
 ### Grants and Funding
 
 - **National Science Foundation** — Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings. *(Awarded April 2023)*
+  
 - **North Carolina Independent Colleges and Universities** — Faculty-Student STEM Mentoring Grant. *(Awarded August 2022)*
 
 ---
