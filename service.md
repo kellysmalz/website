@@ -5,6 +5,7 @@ permalink: /service/
 ---
 
 Strong departments and institutions are built through collective effort. I bring particular strength in student mentorship and advising, and in committee and administrative work that prioritizes inclusion and the advancement of institutional mission.
+
 ---
 
 ### Student Mentorship
