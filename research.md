@@ -16,6 +16,7 @@ My research spans probabilistic numerical methods, machine learning. Alongside m
     Automatic Short-Answer Grading in College Mathematics Using In-context Meta-learning: An Evaluation of the Transferability of Findings.
     <em>25th International Conference on Artificial Intelligence in Education (AIED)</em>.
   </li>
+  
   <li>
     Holl-Cross, C., McCulloch, A.W., Smalenberger, M. &amp; <strong>Smalenberger, K.</strong> (2024).
     A college algebra instructor's transition from procedural to conceptual through the codesign of formative assessments.
