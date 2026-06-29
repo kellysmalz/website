@@ -11,11 +11,14 @@ Strong departments and institutions are built through collective effort. My serv
 ### Student Mentorship
 
 - **Instructor and Mentor**, Data Science for Social Impact, UChicago *(2025–Present)*
-- **Mentor**, [Data Science Clinic (https://datascience.uchicago.edu/education/data-science-clinic/){:target="_blank"}, UChicago 
-  - Spring 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)   
-  - Winter 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)  
-  - Fall 2025 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)
+- [Data Science Clinic (https://datascience.uchicago.edu/education/data-science-clinic/){:target="_blank"}, UChicago, **Mentor**  
+  - [Spring 2026]([https://datascience.uchicago.edu/education/data-science-clinic/](https://clinic.ds.uchicago.edu/projects/)) Partnered with  [UChicago's Regenstein Library](https://www.lib.uchicago.edu/spaces/joseph-regenstein-library/) to identify whether books are replaceable or not using external sources, and to estimate replacement costs for books that can be matched.
+  
+  - [Winter 2026](https://clinic.ds.uchicago.edu/projects/one-pagers/2026-winter/Mothers%20Out%20Front.pdf)  Partnering with Mothers Out Front, the team improved the dashboard (Climate Lens) data processing efficiency and user experience.
+ 
     
+  - [Fall 2025](https://clinic.ds.uchicago.edu/projects/one-pagers/2025-autumn/Mothers%20Out%20Front.pdf) Partnered with [Mothers Out Front](https://mothersoutfront.org/), to develop a tool that presents relevant information in an accessible way so families and activists can assess their school’s environmental conditions and identify opportunities for improvements.
+
   - [Spring 2025](https://clinic.ds.uchicago.edu/projects/one-pagers/2025-spring/RAFI%20-%20Grocery.pdf) partnered with RAFI, where the team developed visualizations and predictive models of grocery market concentration across the US. The analysis explored socioeconomic and demographic factors (e.g., income, urbanization) potentially linked to concentration. The strongest predictor of concentration was the previous year’s level, while factors like political division and education were less informative.
     
   - [Winter 2025](https://clinic.ds.uchicago.edu/projects/one-pagers/2025-winter/RAFI%20-%20Grocery.pdf) partnered with RAFI to visualize grocery market concentration and food access metrics in different core-based statistical areas (CBSA) and analyze geographic factors linked to these metrics.
