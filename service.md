@@ -59,7 +59,7 @@ Academic Advisor for a portion of mathematics majors and all minors.
 - **Program Committee**, 46th Annual Conference of PME-NA *(2024)*
 - **Program Committee**, 25th International Conference on AI in Education (AIED) *(2024)*
 - **Program Committee**, 8th International Conference on Machine Learning, Optimization, and Data Science (LOD) *(2022)*
-- **Member, Board of Directors**, [Accessible Math (501(c)(3))](https://accessiblemath.org){:target="_blank"} *(2021–Present)*
+- **Member, Board of Directors**, Accessible Math (501(c)(3)) *(2021–Present)*
 
 ---
 
