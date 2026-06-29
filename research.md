@@ -52,15 +52,21 @@ My research spans probabilistic numerical methods, machine learning. Alongside m
 
 ### Grants and Funding
 
-- **National Science Foundation** — Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings. *(Awarded April 2023)*
+**National Science Foundation** — Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings. *(Awarded April 2023)*
   
-- **North Carolina Independent Colleges and Universities** — Faculty-Student STEM Mentoring Grant. *(Awarded August 2022)*
+**North Carolina Independent Colleges and Universities** — Faculty-Student STEM Mentoring Grant. *(Awarded August 2022)*
 
 ---
 
 ### Reviewing and Academic Service
 
-- **Panelist**, National Science Foundation, 2023 & 2024
-- **Program Committee**, 46th Annual Conference of PME-NA, 2024
-- **Program Committee**, 25th International Conference on AI in Education (AIED), 2024
-- **Program Committee**, 8th International Conference on Machine Learning, Optimization, and Data Science (LOD), 2022
+
+**National Science Foundation**, Panelist, *(2023, 2024)*
+
+**46th Annual Conference of PME-NA**, Program Committee, *(2024)*
+
+**25th International Conference on AI in Education (AIED)**, Program Committee, *(2024)*
+
+**8th International Conference on Machine Learning, Optimization, and Data Science (LOD)**, Program Committee, *(2022)*
+
+**Accessible Math (501(c)(3))** Member, Board of Directors, *(2021–Present)*
