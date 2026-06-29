@@ -12,9 +12,9 @@ Strong departments and institutions are built through collective effort. I bring
 
 **[Data Science for Social Impact](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/), UChicago**
 
-  - **Instructor** Summer 2026
+  - **Instructor**, Summer 2026
     
-  - **Instructor & Mentor**  [Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/) My team partnered with [BankTrack](http://banktrack.org/) to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning.
+  - **Instructor & Mentor**,  [Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/) My team partnered with [BankTrack](http://banktrack.org/) to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning.
 
   
 **[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic/), UChicago**
@@ -36,7 +36,7 @@ Strong departments and institutions are built through collective effort. I bring
   
 **Undergraduate Research Mentor, Belmont Abbey College** 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
+  &nbsp;&nbsp;&nbsp;&nbsp; Mentored two undergraduate students on and NSF grant for which I was institutional PI, Collaborative Research: Using ASSISTments for College Math: An Evaluation of the Effectiveness of Supports and Transferability of Findings.
 
 
 **Undergraduate Academic Advisor, Belmont Abbey College** 
