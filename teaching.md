@@ -39,7 +39,7 @@ Courses taught include: College Algebra · Calculus I, II & III · Differential 
 **Curriculum Development**
 
 - Authored College Algebra course material to ensure consistancy across sections
-- Collaborated with the Economics Department to takeover and redesign the Statistics for Business and Economics course
+- Collaborated with the Economics Department to takeover and redesign the Statistics for Business and Economics course.
 
 
 ---
@@ -47,10 +47,13 @@ Courses taught include: College Algebra · Calculus I, II & III · Differential 
 ### University of North Carolina at Charlotte _(semester system)_
 *Teaching Assistant / Instructor of Record, 2012 – 2018*
 
-Courses taught include: College Algebra, Business Calculus, and Calculus I & II 
+Courses taught include: College Algebra · Business Calculus · Calculus I & II 
+
 Classes consistently performed at or near the top of university common final exams.
 
-In 2015, served as a key contributor to the Platform Redesign Team, integrating educational technology into Calculus II and College Algebra curricula.
+**Curriculum Development**
+- Platform Redesign Team, created instructional materail and integrating educational technology into the university's Calculus II course.
+- Platform Redesign Team, create instructional material and integrating educational technology into the university's College Algebra course.
 
 ---
 
