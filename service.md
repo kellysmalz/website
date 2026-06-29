@@ -15,7 +15,8 @@ Strong departments and institutions are built through collective effort. My serv
   - Spring 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)   
   - Winter 2026 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)  
   - Fall 2025 [Data Science Clinic (The Clinic)](https://datascience.uchicago.edu/education/data-science-clinic/)
-  - [Spring 2025]((https://clinic.ds.uchicago.edu/projects/one-pagers/2025-spring/RAFI%20-%20Grocery.pdf)) partnered with RAFI, where the team developed visualizations and predictive models of grocery market concentration across the US. The analysis explored socioeconomic and demographic factors (e.g., income, urbanization) potentially linked to concentration. The strongest predictor of concentration was the previous year’s level, while factors like political division and education were less informative.
+    
+  - [Spring 2025](https://clinic.ds.uchicago.edu/projects/one-pagers/2025-spring/RAFI%20-%20Grocery.pdf) partnered with RAFI, where the team developed visualizations and predictive models of grocery market concentration across the US. The analysis explored socioeconomic and demographic factors (e.g., income, urbanization) potentially linked to concentration. The strongest predictor of concentration was the previous year’s level, while factors like political division and education were less informative.
     
   - [Winter 2025](https://datascience.uchicago.edu/education/data-science-clinic/) partnered with RAFI to visualize
 grocery market concentration and food access metrics in different core-based statistical areas (CBSA) and analyze geographic factors linked to these metrics.
