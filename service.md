@@ -5,9 +5,6 @@ permalink: /service/
 ---
 
 Strong departments and institutions are built through collective effort. I bring particular strength in student mentorship and advising, and in committee and administrative work that prioritizes inclusion and the advancement of institutional mission.
-
-ssions — both rooted in my own undergraduate experience, where faculty guidance was transformative.
-
 ---
 
 ### Student Mentorship
@@ -33,18 +30,21 @@ ssions — both rooted in my own undergraduate experience, where faculty guidanc
   - **Mentor**, [Fall 2024](https://clinic.ds.uchicago.edu/projects/one-pagers/2024-autumn/RAFI%20--%20Grocery%20Atlas.pdf) My team partnered with [RAFI-USA](https://www.rafiusa.org/) to develop visualizations of grocery market concentration and food access metrics across various Metropolitan Statistical Areas (MSAs), while conducting a comprehensive analysis of the socioeconomic factors influencing these metrics.
     
 **[Data4All](https://datascience.uchicago.edu/outreach/data4all/), UChicago**
-  - **Lead Instructor and Administrator**, [Spring 2025](https://datascience.uchicago.edu/news/empowering-future-data-leaders-through-data4all/)
+  - **Lead Instructor and Administrator**, [Spring 2026](https://datascience.uchicago.edu/news/empowering-future-data-leaders-through-data4all/) As co-instructor, I refined curriculum and led instruction for this weekend workshop which focuses on equiping the local high school students to become the next generation of data leaders with the skills and confidence to engage meaningfully with data science. As an administrator, I reviewed undergraduate mentor and student partipant applications, coodinate weekly guest speakers, and held weekly instructional team meeting. The program reflects my commitment to expanding access to data education among underrepresented and aspiring students.
 
   
-**Undergraduate Research Mentor**, NSF-funded project, Belmont Abbey College
+**Undergraduate Research Mentor, Belmont Abbey College**
+NSF-funded project,
 
-**Undergraduate Academic Advisor**, Belmont Abbey College**
+**Undergraduate Academic Advisor**, Belmont Abbey College
 ---
 
 ### Institutional Service
 
-- **Graduate Admissions Committee**, University of Chicago *(2024–2026)*
+- **Graduate Admissions Committee**, University of Chicago *(2026)*
+  
 - **Department Chair**, Mathematics and Physics, Belmont Abbey College *(2022–2024)*
+  
 - **Committee Service at Belmont Abbey College** *(2018–2024)*: Admissions Review, Professional Affairs, Biology Hiring, Internal Review Board, IT Strategic Action Board, Strategic Planning, Post-Graduate Learning Opportunities, multiple Hiring Committees, Data Analytics and Actuary Certificate Development Teams
 
 ---
