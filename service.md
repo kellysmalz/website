@@ -42,6 +42,7 @@ Strong departments and institutions are built through collective effort. I bring
 **Undergraduate Academic Advisor, Belmont Abbey College** 
 
   &nbsp;&nbsp;&nbsp;&nbsp; Academic Advisor for a portion of mathematics majors and all minors. 
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is indented text
 
 ---
