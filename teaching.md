@@ -2,6 +2,9 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+
+Teaching is at the heart of my academic identity. I am passionate about working with diverse learners across data science, mathematics, and statistics, and I am committed to creating inclusive classroom environments where all students can thrive. A significant part of my teaching practice involves the intentional design of instructional materials that are rigorous, accessible, and responsive to the varied backgrounds and learning needs of my students.
+
 ---
 
 ### University of Chicago _(quarter system)_
